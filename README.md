@@ -11,11 +11,13 @@ Team Details
  
  Member 2
 Name : Charvi.M
+
 Email: saicharvikagowda@gmail.com
 
 
 Member 3
 Name : Deepika.T.V
+
 Email: tvdeepika4@gmail.com
 
 
