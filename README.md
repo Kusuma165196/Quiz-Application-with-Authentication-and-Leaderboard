@@ -6,15 +6,19 @@ Team Details
  Member 1
  Name : Kusuma.M (Team Lead)
  Email:kusumamkusumam211@gmail.com
+ 
  Member 2
 Name : Charvi.M
 Email: saicharvikagowda@gmail.com
+
 Member 3
 Name : Deepika.T.V
 Email: tvdeepika4@gmail.com
+
 Member 4
 Name:Hemashree.D.B
 Email:hemaheamshree7022@gmail.com
+
 Member 5
 Name:Keerthana.R
 Email:keerthanagowda1033@gmail.com
